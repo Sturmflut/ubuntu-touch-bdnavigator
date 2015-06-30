@@ -1,15 +1,15 @@
 {
     "name": "bdnavigator.sturmflut",
-    "description": "A QML frontend for http://m.bahn.de",
+    "description": "A clone of the DB Navigator app, built using a QML WebView wrapper around mobile websites",
     "architecture": "@CLICK_ARCH@",
-    "title": "A DB Navigator clone, based on ",
+    "title": "BD Navigator",
     "hooks": {
         "bdnavigator": {
             "apparmor": "bdnavigator/bdnavigator.apparmor",
             "desktop": "bdnavigator/bdnavigator.desktop"
         }
     },
-    "version": "0.1",
+    "version": "0.3",
     "maintainer": "Sturm Flut <sturmflut@lieberbiber.de>",
     "framework": "ubuntu-sdk-15.04"
 }

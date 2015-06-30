@@ -23,7 +23,8 @@ OTHER_FILES += $${CONF_FILES} \
     ArrivalDepartureTab.qml \
     OrderSearchTab.qml \
     LiveConnectionTab.qml \
-    ConstructionSiteTab.qml
+    ConstructionSiteTab.qml \
+    userscript.js
 
 #specify where the qml/js files are installed to
 qml_files.path = /bdnavigator
