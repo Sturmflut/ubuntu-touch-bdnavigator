@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BD Navigator
+Exec=qmlscene $@ bdnavigator/Main.qml
+Icon=bdnavigator/bdnavigator.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
