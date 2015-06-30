@@ -45,7 +45,5 @@ MainView {
         OrderSearchTab {}
 
         ConstructionSiteTab {}
-
-        TrainPunctualTab {}
     }
 }
